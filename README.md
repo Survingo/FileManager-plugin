@@ -3,7 +3,7 @@
 FileManager is an super fast plugin for PocketMine-MP which allows you extracting and creating file archives
 
 
-#Supported Archive Formats
+## Supported Archive Formats
 
 - [x] PHAR - PHP Archive
 - [ ] RAR - Roshal Archive
@@ -11,7 +11,12 @@ FileManager is an super fast plugin for PocketMine-MP which allows you extractin
 - [x] GZ/GZIP - gunzip Format
 
 
-#Notes
+## Wiki
+
+[Start reading now](http://github.com/Survingo/FileManager-plugin/wiki)
+
+
+## Notes
 
 This plugin is still in development.
 For known issues visit [this](http://github.com/Survingo/FileManager-plugin/issues/2).
