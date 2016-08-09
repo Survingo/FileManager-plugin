@@ -1,0 +1,18 @@
+name: FileManager
+main: Survingo\FileManager\FileManager
+version: 0.1
+author: Survingo
+api: [1.13.0,2.0.0]
+description: An simple plugin allowing you to manage your files easily
+website: "http://github.com/Survingo/FileManager-plugin"
+
+commands:
+ file:
+  permission: filemanager.command
+  description: "Manage your files" 
+  usage: "/file <file type> <what to do> <name>"
+  
+permissions:
+ filemanager.command:
+  default: op
+  descriptions: "Allows managing files"
